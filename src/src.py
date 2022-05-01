@@ -1,7 +1,5 @@
 import pylab as plt
-
 import pandas as pd
-
 import seaborn as sns
 
 #Devuelve la gráfica de columnas x null/nan
